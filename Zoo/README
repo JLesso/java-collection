@@ -1,0 +1,18 @@
+# Zoo LinkedList
+
+A singly linked list implementation that manages Animal objects in Java.
+
+## What it does
+
+Manages a zoo of animals using a custom linked list.
+Supports adding animals, duplicating the list, filtering by category,
+and simulating a feeding queue that processes animals one at a time.
+
+## Concepts covered
+
+- Enums (Category, Diet)
+- Classes and constructors
+- Singly linked list (AddHead, AddTail, RemoveHead)
+- Object composition
+- Method overloading
+- Category filtering with duplicate()
